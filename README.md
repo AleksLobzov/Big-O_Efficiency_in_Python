@@ -23,4 +23,4 @@ With the current version of the program you should see the following Big-Os of t
 
 <b>Note</b>:
    * O(1) means that the execution time almost don't depend on the number of elements in a List
-   * O(n) is the proterty of a method which execution time changes almost linearly depending on the number of elements in a List
+   * O(n) is the property of a method which execution time changes almost linearly depending on the number of elements in a List
